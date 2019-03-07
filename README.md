@@ -1,0 +1,2 @@
+# nodejs-reactjs-registration-login-okta
+In this tutorial, I won't use any state management libraries like Redux or ReduxThunk. In a more robust application, you'll probably want to do that, but it will be easy to wire up Redux and ReduxThunk and then add the fetch statements used here as your thunks. For the sake of simplicity, and to keep this article focused on adding user management, I'll be adding fetch statements into componentDidMount functions.
